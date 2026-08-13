@@ -39,4 +39,4 @@ else
     JAVACMD="java"
 fi
 
-exec "$JAVACMD" $DEFAULT_JVM_OPTS $GRADLE_OPTS -classpath "$CLASSPATH" org.gradle.wrapper.GradleWrapperMain "$@"
+exec "$JAVACMD" -Xmx64m -Xms64m $GRADLE_OPTS -classpath "$CLASSPATH" org.gradle.wrapper.GradleWrapperMain "$@"
