@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LOST</string>
+    <string name="new_chat">چاتی نوێ</string>
+    <string name="type_message">پەیامێک بنووسە بۆ LOST...</string>
+    <string name="model_info">Gemini 3.6 Flash (خۆڕایی)</string>
+    <string name="accessibility_service_label">LOST Phone Voice Assistant Service</string>
+    <string name="accessibility_service_description">LOST needs Accessibility Service to execute system commands such as returning to Home screen, going Back, and launching global voice shortcuts.</string>
+</resources>
